@@ -62,7 +62,7 @@ namespace PowershellinC#
             }
         }
 
-        public static string ReadScript(string filename)
+        public static string ReadScript(string filename)//filename = filepath
         {
             try
             {
